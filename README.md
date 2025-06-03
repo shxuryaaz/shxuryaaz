@@ -55,12 +55,6 @@ I'm a Computer Science student with a passion for AI, blockchain, and problem-so
 
 ---
 
-## 🔧 Custom Tech Stack Snapshot
-
-[<img src="./assets/stack.png" height="200">](./assets/stack.png)
-
----
-
 ## 📈 Goals for 2025  
 
 ✅ Ship production-ready LLM tools on low-end CPUs  
