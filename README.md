@@ -9,12 +9,13 @@ I'm a Computer Science student with a passion for AI, blockchain, and problem-so
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=shxuryaaz&theme=gotham&mode=weekly)](https://git.io/streak-stats)
 
-## About Me
+## 🧠 About Me
 
-🧠 Passionate about building **AI-powered tools** and **secure blockchain applications**.  
-🔐 Exploring **lightweight LLMs**, **zero-knowledge proofs**, and **decentralized identity systems**.  
-💻 Strong foundation in **backend systems**, **security**, and **performance optimization**.  
-📚 Always learning and iterating to create useful, scalable tools.
+🚀 I'm a passionate developer building innovative solutions using AI and Blockchain. Currently working on:
+- 🗳️ **Blockchain-based Voting System** with Google Auth & BIP-39 wallet generation
+- 🤖 **Lightweight LLM Projects** for local inference and custom chatbot experiences
+
+🧩 Always striving to blend **performance** with **simplicity** and craft digital tools that solve real-world problems.
 
 ---
 
