@@ -1,13 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=66CDAA&width=435&lines=Full-Stack+Developer;Backend+Engineer;Cloud+Computing+Learner;DevOps+Enthusiast)](https://git.io/typing-svg)
 
-
 # Hey there, I'm Shaurya Singh! ⚡
 
 I'm a Computer Science student with a passion for AI, blockchain, and problem-solving.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shauryasingh28)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shxuryaaz&theme=gotham&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shxuryaaz&theme=gotham&mode=weekly)](https://git.io/streak-stats)
 
 ## 🧠 About Me
 
@@ -79,5 +78,3 @@ I'm a Computer Science student with a passion for AI, blockchain, and problem-so
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
