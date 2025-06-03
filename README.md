@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=#C778DD&random=false&width=435&lines=AI+Engineer;Web3+Developer;LLM+Builder;Cybersecurity+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.comfont=Fira+Code&pause=1000&color=#C778DD&random=false&width=435&lines=AI+Engineer;Web3+Developer;LLM+Builder;Cybersecurity+Learner)](https://git.io/typing-svg)
 
 # Hey there, I'm Shaurya Singh! ⚡
 
