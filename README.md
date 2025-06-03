@@ -9,7 +9,8 @@ I'm a Computer Science student with a passion for AI, blockchain, and problem-so
 ---
 
 ## 📊 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shxuryaaz&theme=dark&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shxuryaaz)](https://streak-stats.demolab.com/?user=shxuryaaz)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shxuryaaz&layout=compact&theme=radical)](https://github.com/shxuryaaz)
 
