@@ -65,8 +65,18 @@ I'm a Computer Science student with a passion for AI, blockchain, and problem-so
 
 ---
 
-## 📬 Let's Connect  
+## 🤝 Let's Connect
 
-📌 I’m open to collaborations on AI, Web3, and full-stack dev.  
-🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/shauryasingh28)**!
+📫 Email: [shauryasingh.dev@gmail.com](mailto:shauryasingh.dev@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/shauryasingh28](http://www.linkedin.com/in/shauryasingh28)
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/shauryasingh28/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shauryasingh.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
