@@ -1,35 +1,25 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=66CDAA&width=435&lines=Full-Stack+Developer;Backend+Engineer;Cloud+Computing+Learner;DevOps+Enthusiast)](https://git.io/typing-svg)
 
+
 # Hey there, I'm Shaurya Singh! ⚡
 
 I'm a Computer Science student with a passion for AI, blockchain, and problem-solving.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shauryasingh28)
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Streak](https://img.shields.io/badge/GitHub_Streak-Active-informational?style=for-the-badge&logo=github)
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shxuryaaz&layout=compact&theme=radical)](https://github.com/shxuryaaz)
-
----
+[![GitHub Streak](https://streak-stats.demolab.com?user=shxuryaaz&theme=gotham&mode=weekly)](https://git.io/streak-stats)
 
 ## 🧠 About Me
 
 🚀 I'm a passionate developer building innovative solutions using AI and Blockchain. Currently working on:
-- 🗳️ **Blockchain-based Voting System** with Google Auth & BIP-39 wallet generation  
-- 🤖 **Lightweight LLM Projects** for local inference and custom chatbot experiences  
+- 🗳️ **Blockchain-based Voting System** with Google Auth & BIP-39 wallet generation
+- 🤖 **Lightweight LLM Projects** for local inference and custom chatbot experiences
 
 🧩 Always striving to blend **performance** with **simplicity** and craft digital tools that solve real-world problems.
 
 ---
 
-## 🛠 Tech Stack & Expertise
+## 🛠 Tech Stack & Expertise  
 
 ### **Software Development Languages**
 
@@ -89,3 +79,7 @@ I'm a Computer Science student with a passion for AI, blockchain, and problem-so
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+---
+
+Debug this code for github streak its not working
