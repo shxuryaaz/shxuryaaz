@@ -7,7 +7,7 @@ I'm a Computer Science student with a passion for AI, blockchain, and problem-so
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shauryasingh28)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shxuryaaz&theme=gotham&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shxuryaaz)](https://git.io/streak-stats)
 
 ## 🧠 About Me
 
@@ -81,5 +81,3 @@ I'm a Computer Science student with a passion for AI, blockchain, and problem-so
 </p>
 
 ---
-
-Debug this code for github streak its not working
