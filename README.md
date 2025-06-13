@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=66CDAA&width=435&lines=Full-Stack+Developer;Backend+Engineer;Cloud+Computing+Learner;DevOps+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=66CDAA&width=435&lines=Full-Stack+Developer;Backend+Engineer;Cloud+Computing+Learner;DevOps+Enthusiast;Python+Developer)](https://git.io/typing-svg)
 
 # Hey there, I'm Shaurya Singh! ⚡
 
