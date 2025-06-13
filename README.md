@@ -12,10 +12,6 @@ I'm a Computer Science student with a passion for AI, blockchain, and problem-so
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shxuryaaz&theme=dark&hide_border=false)](https://git.io/streak-stats)
 
-[![Shaurya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shxuryaaz&show_icons=true&theme=radical)](https://github.com/shxuryaaz)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shxuryaaz&layout=compact&theme=radical)](https://github.com/shxuryaaz)
-
 ---
 
 ## 🧠 About Me
