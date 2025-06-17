@@ -74,7 +74,7 @@ I'm a Computer Science student with a passion for AI, blockchain, and problem-so
 
 ## 🤝 Let's Connect
 
-📫 Email: [shauryasingh.dev@gmail.com](mailto:shauryasingh.dev@gmail.com)  
+📫 Email: [shauryajps@gmail.com](mailto:shauryajps@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/shauryasingh28](http://www.linkedin.com/in/shauryasingh28)
 
 <p align="center">
