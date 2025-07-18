@@ -55,12 +55,6 @@ I'm a Computer Science student with a passion for AI, blockchain, and problem-so
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Hyper-V_Logo.png" height="40">](https://www.microsoft.com/en-us/cloud-platform/hyper-v)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Vmware-by-broadcom.svg" height="40">](https://www.vmware.com/)
 
-### **Video & Photo Editing**
-
-[<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="40">](https://www.adobe.com/products/photoshop.html)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" height="40">](https://www.adobe.com/products/premiere.html)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" height="40">](https://www.blender.org/)
-
 ---
 
 ## 📈 Goals for 2025  
