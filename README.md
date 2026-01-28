@@ -2,8 +2,7 @@
 
 # Hey, I’m Shaurya Singh
 
-Computer Science student working on backend systems, AI infrastructure, and applied machine learning.  
-I like building systems that don’t just work in demos — they survive real usage.
+FIrst year Computer Science student working on python based backend systems, AI infrastructure, and applied machine learning.  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shauryasingh28)
 
@@ -17,13 +16,7 @@ I like building systems that don’t just work in demos — they survive real us
 ---
 
 ## About Me
-
-I’ve been writing code for 6+ years — which is mostly a long-running negotiation with compilers, runtime errors, and systems that fail in ways documentation never warns you about.
-
-My work focuses on **Python-based backend systems**, **AI/ML-powered applications**, and **full-stack development**.  
-I’ve built systems that integrate LLMs into real workflows, worked with data pipelines and APIs, and explored blockchain beyond surface-level experimentation.
-
-I’m especially interested in **how systems break under load, how models behave in production, and how to design software that’s debuggable, secure, and maintainable**.
+i've Been writing code for 6+ years which is just a polite way of saying I’ve spent a disturbing amount of time arguing with compilers and occasionally winning where i've worked with Python, JavaScript, and AI frameworks basically anything that can either crash spectacularly or change the world. Sometimes both at the same time. i've also built AI-powered systems, played around with blockchain (yes it’s more than just memes and coins) and broken enough cybersecurity rules to know how to secure them properly.
 
 ---
 
