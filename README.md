@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=66CDAA&width=435&lines=Backend+Engineer;Full-Stack+Developer;Python+Developer;AI+Systems+Builder;Cloud+Computing+Learner)](https://git.io/typing-svg)
 
-# Hi, I’m Shaurya Singh
+# Hey, I’m Shaurya Singh
 
-Computer Science student focused on backend systems, AI infrastructure, and applied machine learning.  
-I enjoy building things that are robust, debuggable, and actually usable in the real world.
+Computer Science student working on backend systems, AI infrastructure, and applied machine learning.  
+I like building systems that don’t just work in demos — they survive real usage.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shauryasingh28)
 
@@ -18,12 +18,12 @@ I enjoy building things that are robust, debuggable, and actually usable in the 
 
 ## About Me
 
-I’ve been writing code for 6+ years — which mostly means I’ve spent a lot of time arguing with compilers, debugging edge cases, and slowly learning how real systems break.
+I’ve been writing code for 6+ years — which is mostly a long-running negotiation with compilers, runtime errors, and systems that fail in ways documentation never warns you about.
 
-My experience spans **Python-based backend systems**, **AI/ML tooling**, and **full-stack development**.  
-I’ve built AI-powered applications, explored blockchain beyond the hype, and developed a strong interest in system security by understanding how things fail.
+My work focuses on **Python-based backend systems**, **AI/ML-powered applications**, and **full-stack development**.  
+I’ve built systems that integrate LLMs into real workflows, worked with data pipelines and APIs, and explored blockchain beyond surface-level experimentation.
 
-I’m drawn to problems involving **architecture, performance, and reliability**, not just shipping demos.
+I’m especially interested in **how systems break under load, how models behave in production, and how to design software that’s debuggable, secure, and maintainable**.
 
 ---
 
@@ -34,11 +34,17 @@ I’m drawn to problems involving **architecture, performance, and reliability**
 - JavaScript / TypeScript
 - React, Node.js
 
+### AI / Machine Learning
+- Applied LLM development (prompting, tool use, basic orchestration)
+- Model integration into backend services (APIs, async workflows)
+- Vector search & semantic retrieval concepts
+- Focus on **practical deployment constraints** rather than research-only models
+
 ### Security & Systems (Personal Interest)
 - Network analysis & traffic inspection (Wireshark)
-- Penetration testing fundamentals (Metasploit, lab environments)
+- Penetration testing fundamentals (Metasploit, controlled environments)
 - Linux systems & security tooling (Kali Linux, John the Ripper)
-- General understanding of attack surfaces and defensive design
+- Understanding attack surfaces to design better defenses
 
 ---
 
