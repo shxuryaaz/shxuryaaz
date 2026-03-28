@@ -20,7 +20,7 @@ i've Been writing code for 6+ years which is just a polite way of saying I’ve 
 
 ---
 
-## 🛠 Tech Stack & Expertise
+## Tech Stack & Expertise
 
 ### Languages & Frameworks
 - Python, Java, C++
@@ -41,7 +41,7 @@ i've Been writing code for 6+ years which is just a polite way of saying I’ve 
 
 ---
 
-## 🤝 Let’s Connect
+##  Let’s Connect
 
 📫 Email: [shauryajps@gmail.com](mailto:shauryajps@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/shauryasingh28](https://www.linkedin.com/in/shauryasingh28)
